@@ -1,10 +1,10 @@
-package com.easyandroid.designpattern.ObserverPattern;
+package com.easyandroid.designpatternlib.ObserverPattern;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- * package: com.easyandroid.designpattern.ObserverPattern.ConcreteSubject
+ * package: ConcreteSubject
  * author: gyc
  * description:具体被观察者（ConcreteSubject）,
  * 微信公众号是具体主题（具体被观察者），

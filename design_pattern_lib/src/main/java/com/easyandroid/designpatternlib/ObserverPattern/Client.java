@@ -1,7 +1,7 @@
-package com.easyandroid.designpattern.ObserverPattern;
+package com.easyandroid.designpatternlib.ObserverPattern;
 
 /**
- * package: com.easyandroid.designpattern.ObserverPattern.Client
+ * package: Client
  * author: gyc
  * description:客户端调用示例：
  * time: create at 2017/2/12 15:45

@@ -1,7 +1,7 @@
-package com.easyandroid.designpattern.ObserverPattern;
+package com.easyandroid.designpatternlib.ObserverPattern;
 
 /**
- * package: com.easyandroid.designpattern.ObserverPattern.Subject
+ * package: Subject
  * author: gyc
  * description:抽象被观察者（Subject）,抽象主题，提供了attach、detach、notify三个方法：
  * time: create at 2017/2/12 15:43

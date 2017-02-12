@@ -1,7 +1,7 @@
-package com.easyandroid.designpattern.ObserverPattern;
+package com.easyandroid.designpatternlib.ObserverPattern;
 
 /**
- * package: com.easyandroid.designpattern.ObserverPattern.ConcreteObserver
+ * package: ConcreteObserver
  * author: gyc
  * description:具体观察者（ConcrereObserver）,微信用户(ConcreteObserver)是观察者，里面实现了更新的方法：
  * time: create at 2017/2/12 15:41
