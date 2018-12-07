@@ -8,5 +8,5 @@ package com.easyandroid.designpatternlib.ObserverPattern;
  */
 
 public interface Observer {
-    public void update(String message);
+    void update(String message);
 }

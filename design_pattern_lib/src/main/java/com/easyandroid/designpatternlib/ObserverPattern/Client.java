@@ -19,6 +19,6 @@ public class Client {
         mSubscriptionSubject.attach(user2);
         mSubscriptionSubject.attach(user3);
         //公众号更新发出消息给订阅的微信用户
-        mSubscriptionSubject.notify("刘望舒的专栏更新了");
+        mSubscriptionSubject.notify("您订阅的专栏更新了");
     }
 }
